@@ -1,0 +1,10 @@
+
+train: ../datasets_defect_2/images/train/
+val: ../datasets_defect_2/images/val/
+test: ../datasets_defect_2/images/test/
+
+# Classes
+nc: 2  # number of classes
+
+names: ['blob','crack']  # class names
+

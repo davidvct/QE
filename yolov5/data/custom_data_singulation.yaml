@@ -1,0 +1,10 @@
+
+train: ../datasets/images/train/
+val: ../datasets/images/val/
+test: ../datasets/images/test/
+
+# Classes
+nc: 1  # number of classes
+
+names: ['single_panel']  # class names
+
